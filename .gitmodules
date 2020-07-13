@@ -1,0 +1,9 @@
+[submodule "rsh"]
+	path = rsh
+	url = https://github.com/vrmiguel/rsh
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/vrmiguel/minishell
+[submodule "minishell-2"]
+	path = minishell-2
+	url = https://github.com/vrmiguel/minishell-2/
